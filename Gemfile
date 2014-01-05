@@ -7,7 +7,7 @@ gem 'therubyracer', :platforms => :ruby
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
-group :developement, :test do
+group :development, :test do
 gem 'sqlite3'
 gem 'rspec-rails'
 end
