@@ -10,7 +10,7 @@ describe "StaticPages" do
 
    it "should have the title 'Home'" do
 	visit '/static_pages/home'
-	page.should have_title("Sample App | Home")
+	page.should have_title("Sample App")
    end
 
 
