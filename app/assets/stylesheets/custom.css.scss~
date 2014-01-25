@@ -181,7 +181,7 @@ margin: 0 0 18px 0;
 @extend .error;
 }
 
-/*index*/
+/*users index*/
 .users{
 	list-style: none;
 	margin: 0;

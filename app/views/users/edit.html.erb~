@@ -23,7 +23,7 @@
 		
 	<%end%>
 
-	<%gravatar_for @user%>
+	<%=gravatar_for @user%>
 	<%= link_to "change",'http://gravatar.com/emails'%>
 	</div>
 </div>
